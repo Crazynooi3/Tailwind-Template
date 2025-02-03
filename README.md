@@ -1,2 +1,10 @@
-# Tailwind-Template
-🌀 A collection of modern and responsive templates built with Tailwind CSS. 📌 Ready-to-use, lightweight, and customizable components.
+# Tailwind CSS Templates 🚀  
+
+مجموعه‌ای از تمپلیت‌های سبک و قابل استفاده مجدد که با **Tailwind CSS** ساخته شده‌اند.  
+این تمپلیت‌ها می‌توانند به‌عنوان پایه‌ای برای پروژه‌های مختلف مورد استفاده قرار بگیرند.  
+
+## ویژگی‌ها ✨  
+- ✅ **طراحی مدرن و مینیمال**  
+- ✅ **کاملاً ریسپانسیو**  
+- ✅ **قابل شخصی‌سازی**  
+- ✅ **کد تمیز و بهینه**  
