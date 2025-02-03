@@ -13,6 +13,6 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a72bddcd-56d6-4260-96bd-53746c0dcecb" alt="Desktop" width="150">
-  <img src="https://github.com/user-attachments/assets/1f929f9a-7e41-488f-8249-5af33fd7ed3b" alt="Desktop" width="150">
+  <img src="https://github.com/user-attachments/assets/a72bddcd-56d6-4260-96bd-53746c0dcecb" alt="Desktop" width="250">
+  <img src="https://github.com/user-attachments/assets/1f929f9a-7e41-488f-8249-5af33fd7ed3b" alt="Mobile" width="250">
 </p>
