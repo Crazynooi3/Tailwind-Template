@@ -13,6 +13,11 @@
 
 <a href="loginForm/Simple Card"> Simple Card </a>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a72bddcd-56d6-4260-96bd-53746c0dcecb" alt="Desktop" width="250">
-  <img src="https://github.com/user-attachments/assets/1f929f9a-7e41-488f-8249-5af33fd7ed3b" alt="Mobile" width="250">
+  <img src="https://github.com/user-attachments/assets/dedc2220-a46a-4376-943c-4ee4733177a6" alt="Desktop" width="250">
+</p>
+</hr>
+<a href="loginForm/Simple Card"> Simple no labels </a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/964f5e5e-9bd4-45df-8514-af1c9180c007" alt="Desktop" width="250">
+  
 </p>
