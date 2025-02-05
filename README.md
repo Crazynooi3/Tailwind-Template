@@ -11,7 +11,7 @@
 # login forms
 
 
-<a href="loginForm/Simple Card"> Simple Card </a>
+<a href="loginForm/Simple-Card"> Simple Card </a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dedc2220-a46a-4376-943c-4ee4733177a6" alt="Desktop">
 </p>
