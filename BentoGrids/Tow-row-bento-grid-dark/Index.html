@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/app.css">
+    <title>Two row bento grid on dark</title>
+</head>
+<body class="font-inter bg-white text-black dark:bg-gray-900 dark:text-white">
+    <div class="container mx-auto max-w-2xl">
+        <!-- Title -->
+        <div>
+            <h1 class="text-indigo-400 font-semibold text-base">Deploy faster</h1>
+            <h2 class="text-5xl font-semibold max-w-lg mt-2">Everything you need to deploy your app</h2>
+        </div>
+        <div class="grid gap-4 grid-cols-6 mt-16">
+            <div class="col-span-4 bg-gray-800 rounded-t-lg md:rounded-tl-4xl md:rounded-sm rounded-b-sm border border-gray-100/10 overflow-hidden">
+                <img class="max-w-full object-cover object-left align-middle min-h-80 block" src="./img/bento-02-releases.png" alt="">
+                <div class="p-10">
+                    <h3 class="text-gray-400 font-semibold text-sm">Releases</h3>
+                    <p class="font-medium text-lg mt-2">Push to deploy</p>
+                    <p class="text-gray-400 text-sm max-w-lg mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In gravida justo et nulla efficitur, maximus egestas sem pellentesque.</p>
+                </div>
+            </div>
+            <div class="col-span-2 bg-gray-800 rounded-sm md:rounded-tr-4xl md:rounded-sm border border-gray-100/10 overflow-hidden">
+                <img class="max-w-full object-cover object-center align-middle min-h-80 block" src="./img/bento-02-integrations.png" alt="">
+                <div class="p-10">
+                    <h3 class="text-gray-400 font-semibold text-sm">Integrations</h3>
+                    <p class="font-medium text-lg mt-2">Connect your favorite tools</p>
+                    <p class="text-gray-400 text-sm max-w-lg mt-2">Curabitur auctor, ex quis auctor venenatis, eros arcu rhoncus massa.</p>
+                </div>
+            </div>
+            <div class="col-span-2 bg-gray-800">3</div>
+            <div class="col-span-4 bg-gray-800">4</div>
+        </div>
+    </div>
+</body>
+</html>

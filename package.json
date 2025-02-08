@@ -4,7 +4,8 @@
     "tailwindcss": "^4.0.3"
   },
   "scripts": {
-    "Simple-no-labels": "npx @tailwindcss/cli -i ./Public/input.css -o ./loginForm/Simple-no-labels/css/app.css --watch"
+    "Simple-no-labels": "npx @tailwindcss/cli -i ./Public/input.css -o ./loginForm/Simple-no-labels/css/app.css --watch",
+    "Tow-row-bento-grid-dark": "npx @tailwindcss/cli -i ./Public/input.css -o ./BentoGrids/Tow-row-bento-grid-dark/css/app.css --watch"
 }
 
 }
